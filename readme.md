@@ -22,3 +22,9 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 *  Complete Challenges from http://flexboxfroggy.com/
 * (0/3) Build 3 React Projects
 * Complete Intermediate Python Course from DataCamp
+
+### Day 01: July 9, Monday
+
+**Today's Progress :** Completed Applied Visual Design Section in Responsive Web Design Certification FCC. And completed 22 challenges of http://flexboxfroggy.com/.
+
+**Thoughts :** It was kindaa boring in the beginning, as I knew the stuff. But as the animation kicks in, it starts getting fun. Concepts of Bezier Curve are still not so clear to me, will work on it tomorrow.
