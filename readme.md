@@ -28,3 +28,9 @@ Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode 
 **Today's Progress :** Completed Applied Visual Design Section in Responsive Web Design Certification FCC. And completed 22 challenges of http://flexboxfroggy.com/.
 
 **Thoughts :** It was kindaa boring in the beginning, as I knew the stuff. But as the animation kicks in, it starts getting fun. Concepts of Bezier Curve are still not so clear to me, will work on it tomorrow.
+
+### Day 02: July 10, Tuesday
+
+**Today's Progress :** Completed Applied Accessiblity Section in Responsive Web Design Certification FCC.
+
+**Thoughts :** Felt like I have been digging into frameworks too much. Wasn't even aware of most of the HTML 5 tags, that I went through during the challenges. Learnt about WCAG too(have to dig deeper into it), some excercises on CSS animations are still on hold
